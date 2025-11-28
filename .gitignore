@@ -1,1 +1,16 @@
+# Obsidian
 .obsidian/
+
+# Images (optional - keep if you want them in repo)
+# assets/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.temp
